@@ -1,4 +1,5 @@
-[![Header](https://github.com/K0ras1K/k0ras1k/blob/main/assets/shinobu-winter-gif.gif)]
+[![Header](https://github.com/Yahar4/yahar4/blob/main/assets/konan-naruto.gif)]
+
 #
 
 ### Hi👋 I'm Yahar4 aka Rendayse aka Dima (real name). I'm actually a beginner python Django developer. I can also create Discord bots
