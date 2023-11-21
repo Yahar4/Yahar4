@@ -1,5 +1,5 @@
 <div id="header" align="center">
-  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSuiLdCnim2l1mOekqKNTCHbtnzvtkoaPgDvunuhqWuKA&s" width="100"/>
+  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSuiLdCnim2l1mOekqKNTCHbtnzvtkoaPgDvunuhqWuKA&s" width="100", alt="Avatar">
 </div>
 
 
