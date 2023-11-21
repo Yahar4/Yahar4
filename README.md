@@ -1,5 +1,5 @@
-<div id="header" align="center">
-  <img src="https://tenor.com/ru/view/konan-naruto-naruto-konan-gif-14602088" width="100">
+<div id="header" align="left">
+  <img src="https://tenor.com/ru/view/konan-naruto-naruto-konan-gif-14602088" width="250">
 </div>
 
 
