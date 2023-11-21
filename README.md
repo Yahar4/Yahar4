@@ -1,8 +1,4 @@
-<div id="header" align="left">
-  <img src="https://tenor.com/ru/view/konan-naruto-naruto-konan-gif-14602088" width="250">
-</div>
-
-
+[![Header](https://github.com/K0ras1K/k0ras1k/blob/main/assets/shinobu-winter-gif.gif)]
 #
 
 ### Hi👋 I'm Yahar4 aka Rendayse aka Dima (real name). I'm actually a beginner python Django developer. I can also create Discord bots
