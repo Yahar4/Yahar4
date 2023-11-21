@@ -1,9 +1,13 @@
 <div id="header" align="center">
-  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSuiLdCnim2l1mOekqKNTCHbtnzvtkoaPgDvunuhqWuKA&s" width="100", alt="Avatar">
+  <img src="https://tenor.com/ru/view/konan-naruto-naruto-konan-gif-14602088" width="100">
 </div>
 
 
+#
+
 ### Hi👋 I'm Yahar4 aka Rendayse aka Dima (real name). I'm actually a beginner python Django developer. I can also create Discord bots
+
+#
 
 ### Operational Systems
 ![Kali]( https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white)
