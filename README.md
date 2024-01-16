@@ -11,6 +11,9 @@
 ### Languages and tools
 ![Python](https://img.shields.io/badge/-Python-090909?style=for-the-badge&logo=python)
 ![GO](https://img.shields.io/badge/-Go-090909?style=for-the-badge&logo=go)
+![JS](https://img.shields.io/badge/-JavaScript-090909?style=for-the-badge&logo=JavaScript)
 ![VSCode](https://img.shields.io/badge/-VSCode-090909?style=for-the-badge&logo=visualstudiocode)
 ![PyCharm](https://img.shields.io/badge/-PyCharm-090909?style=for-the-badge&logo=pycharm)
+![NeoVim](https://img.shields.io/badge/-NeoVim-090909?style=for-the-badge&logo=neovim)
+
 
