@@ -1,6 +1,6 @@
 ![Header](https://github.com/Yahar4/yahar4/blob/main/assets/konan-naruto.gif)
 
-### Hi👋 I'm Yahar4 aka Rendayse aka Dima (real name). I'm actually a beginner python Django developer. I can also create Discord bots
+### Hi👋 I'm Yahar4 aka Rendayse aka Dima (real name). I'm python and GO backend developer.
 
 ### Operational Systems
 ![Kali]( https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white)
@@ -14,6 +14,7 @@
 ![JS](https://img.shields.io/badge/-JavaScript-090909?style=for-the-badge&logo=JavaScript)
 ![VSCode](https://img.shields.io/badge/-VSCode-090909?style=for-the-badge&logo=visualstudiocode)
 ![PyCharm](https://img.shields.io/badge/-PyCharm-090909?style=for-the-badge&logo=pycharm)
+![GoLand](https://img.shields.io/badge/-GoLand-090909?style=for-the-badge&logo=goland)
 ![NeoVim](https://img.shields.io/badge/-NeoVim-090909?style=for-the-badge&logo=neovim)
 
 
