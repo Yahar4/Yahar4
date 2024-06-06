@@ -3,7 +3,7 @@
 ### Hi👋 I'm Yahar4 aka Rendayse aka Dima (real name). I'm python and GO backend developer.
 
 ### Operational Systems
-![Kali]( https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white)
+![Arch](https://img.shields.io/badge/Arch_Linux-557C94?style=for-the-badge&logo=arch-linux&logoColor=white)
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 
 #
