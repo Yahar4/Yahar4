@@ -3,7 +3,7 @@
 ### Hi👋 I'm Yahar4 aka Rendayse aka Dima (real name). I'm python and GO backend developer.
 
 ### Operational Systems
-[![My Skills](https://skillicons.dev/icons?i=windows,arch)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=windows,arch,macos)](https://skillicons.dev)
 
 #
 
