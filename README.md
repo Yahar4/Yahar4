@@ -8,6 +8,6 @@
 #
 
 ### Languages and tools
-[![My Skills](https://skillicons.dev/icons?i=go,python,postgresql,neovim,vim,docker,nginx,obsidian,postman)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=go,python,django,postgresql,neovim,vim,docker,nginx,obsidian,postman,github,gitlab,git)](https://skillicons.dev)
 
 
