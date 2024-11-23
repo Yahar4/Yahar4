@@ -3,12 +3,11 @@
 ### Hi👋 I'm Yahar4 aka Rendayse aka Dima (real name). I'm python and GO backend developer.
 
 ### Operational Systems
-![Arch](https://img.shields.io/badge/Arch_Linux-557C94?style=for-the-badge&logo=arch-linux&logoColor=white)
-![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
+
 
 #
 
 ### Languages and tools
-[![My Skills](https://skillicons.dev/icons?i=go,python,postgresql,neovim,vim,docker,grpc)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=go,python,postgresql,neovim,vim,docker,nginx,obsidian,postman,goland)](https://skillicons.dev)
 
 
