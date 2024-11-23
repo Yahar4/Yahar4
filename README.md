@@ -9,6 +9,6 @@
 #
 
 ### Languages and tools
-[![My Skills](https://skillicons.dev/icons?i=go,python,postgresql)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=go,python,postgresql,neovim,vim)](https://skillicons.dev)
 
 
