@@ -9,12 +9,6 @@
 #
 
 ### Languages and tools
-![Python](https://img.shields.io/badge/-Python-090909?style=for-the-badge&logo=python)
-![GO](https://img.shields.io/badge/-Go-090909?style=for-the-badge&logo=go)
-![JS](https://img.shields.io/badge/-JavaScript-090909?style=for-the-badge&logo=JavaScript)
-![VSCode](https://img.shields.io/badge/-VSCode-090909?style=for-the-badge&logo=visualstudiocode)
-![PyCharm](https://img.shields.io/badge/-PyCharm-090909?style=for-the-badge&logo=pycharm)
-![GoLand](https://img.shields.io/badge/-GoLand-090909?style=for-the-badge&logo=goland)
-![NeoVim](https://img.shields.io/badge/-NeoVim-090909?style=for-the-badge&logo=neovim)
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
 
 
