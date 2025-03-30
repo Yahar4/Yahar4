@@ -1,6 +1,6 @@
 ![Header](https://github.com/Yahar4/yahar4/blob/main/assets/konan-naruto.gif)
 
-### Hi👋 I'm Yahar4 aka Rendayse aka Dima (real name). I'm python and GO backend developer.
+### Hi👋
 
 ### Operational Systems
 [![My Skills](https://skillicons.dev/icons?i=windows,arch,apple)](https://skillicons.dev)
