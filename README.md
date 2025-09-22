@@ -16,7 +16,7 @@
 
 <p align="center">
   <a href="https://github.com/Yahar4">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=[YourGitHubUsername]&show_icons=true&theme=radical&hide_border=true" />
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=[YourGitHubUsername]&layout=compact&theme=radical&hide_border=true" />
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Yahar4&show_icons=true&theme=radical&hide_border=true" />
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yahar4&layout=compact&theme=radical&hide_border=true" />
   </a>
 </p>
