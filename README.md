@@ -1,4 +1,6 @@
-![Header](https://github.com/Yahar4/yahar4/blob/main/assets/domain-expansion-yuta-okkotsu.gif)
+<div align="center">
+  <img src="https://github.com/Yahar4/yahar4/blob/main/assets/domain-expansion-yuta-okkotsu.gif" alt="Header" width="100%"/>
+</div>
 
 <h1 align="center">Hi there, I'm Dmitrii 👋</h1>
 <h3 align="center">A passionate Go backend developer and a 1-year uni student</h3>
