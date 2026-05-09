@@ -1,5 +1,5 @@
 <h1 align="center">Hi there, I'm Dmitrii 👋</h1>
-<h3 align="center">A passionate Go backend developer and a 1-year uni student</h3>
+<h3 align="center">A passionate Go backend developer</h3>
 
 ### Operational Systems
 [![My Skills](https://skillicons.dev/icons?i=windows,arch,apple)](https://skillicons.dev)
